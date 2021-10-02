@@ -1,0 +1,14 @@
+.box{
+
+    background-color: #D4F1F4;
+    margin : auto;
+    Border: 3px solid black;
+    width: 315px;
+    height: 250px;
+    text-align: center;
+    border-radius: 15px;;
+}
+
+.p1{
+    padding-left: 19px;
+}
